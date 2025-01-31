@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 HELLO WORMS!
 Halló Heimur!?
+=======
+HELLO WORLD!!
+Halló Heimur!!?
+>>>>>>> 67522194a760502558756f5173d60dd0070bbb7e
+HELLO WORMS!!
+Halló Heimur!!?
 Hej!!?
